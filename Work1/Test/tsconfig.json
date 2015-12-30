@@ -8,6 +8,7 @@
         "sourceMap": true
     },
     "files": [
+        "hello-world.ts",
         "main.ts"     
     ]
 }

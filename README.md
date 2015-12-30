@@ -6,3 +6,5 @@ using vscode
 work2 is fine you can use it
 
 work1 is bad you can not use it
+
+a ref link：https://cmatskas.com/typescript-and-vs-code/
