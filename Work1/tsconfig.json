@@ -8,7 +8,7 @@
         "sourceMap": true
     },
     "files": [
-        "hello-world.ts",
+        "HelloWorld.ts",
         "main.ts"     
     ]
 }
