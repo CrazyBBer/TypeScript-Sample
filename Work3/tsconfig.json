@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "noImplicitAny": true,
+        "removeComments": false,
+        "preserveConstEnums": true,
+        "outDir": "out",
+        "sourceMap": true
+    },
+    "files": [
+        "workthough.classes.ts",
+        "workthough.inherit.ts",
+        "workthough.generics.ts",
+        "workthough.modules.ts",
+        "workthough.newsfeature.ts"
+    ]
+}
