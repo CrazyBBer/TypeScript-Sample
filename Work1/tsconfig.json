@@ -9,6 +9,8 @@
     },
     "files": [
         "HelloWorld.ts",
-        "main.ts"     
+        "main.ts",
+        "Greeters/greeter5.ts"
+            
     ]
 }
