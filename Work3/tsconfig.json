@@ -5,6 +5,7 @@
         "removeComments": false,
         "preserveConstEnums": true,
         "outDir": "out",
+        "module" : "amd",
         "sourceMap": true
     },
     "files": [

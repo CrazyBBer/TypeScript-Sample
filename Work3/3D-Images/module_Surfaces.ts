@@ -1,5 +1,5 @@
 
-import {Surface,Color} from "./basicDefine";
+import {Surface,Color} from 'basicDefine.ts';
 
 module Surfaces {
 
